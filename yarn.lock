@@ -1647,9 +1647,10 @@ arraybuffer.prototype.slice@^1.0.3:
 "artrail@file:.":
   version "0.0.0"
   dependencies:
+    "@fontsource/sorts-mill-goudy" "^5.1.0"
     "@headlessui/react" "^2.1.10"
     "@web3modal/ethers" "^5.1.11"
-    artrail "file:../../../AppData/Local/Yarn/Cache/v6/npm-artrail-0.0.0-ca0537c4-0826-4b2e-85ab-9e0b48fe3285-1730899493530/node_modules/artrail"
+    artrail "file:."
     axios "^1.7.7"
     dotenv "^16.4.5"
     ethers "^6.13.4"
@@ -3494,9 +3495,9 @@ mz@^2.7.0:
     thenify-all "^1.0.0"
 
 nanoid@^3.3.7:
-  version "3.3.7"
-  resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.7.tgz"
-  integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
+  version "3.3.8"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.8.tgz#b1be3030bee36aaff18bacb375e5cce521684baf"
+  integrity sha512-WNLf5Sd8oZxOm+TzppcYk8gVOgP+l58xNy58D0nbUnOxOWRWvlcCV4kUF7ltmI6PsrLl/BgKEyS4mqsGChFN0w==
 
 napi-wasm@^1.1.0:
   version "1.1.3"
